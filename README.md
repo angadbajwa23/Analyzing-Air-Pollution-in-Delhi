@@ -1,2 +1,5 @@
 # Winter-Project
-Air Pollution In India over the past 25 years
+Air Pollution In Delhi over the past 25 years using python, pandas, numpy and matplotlib.
+
+
+Involves data cleaning and data exploration.
