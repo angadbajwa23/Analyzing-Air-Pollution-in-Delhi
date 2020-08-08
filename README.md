@@ -17,11 +17,16 @@ c) Data Visualization</br>
 
 </br>
 For data visualization I use-</br>
-a) scatter plot</br>
-b) dist plot</br>
+
+
 c) kde plot</br>
 d) joint plot</br>
 
-Example 1:               |  Example 2:
+a) scatter plot</br>              |  b) dist plot</br>
 :-------------------------:|:-------------------------:
 ![scatter](./img/scatter.png)  |  ![dist](./img/dist.png)
+
+
+c) kde plot</br>              |  d) dense plot</br>
+:-------------------------:|:-------------------------:
+![kde](./img/kde.png)  |  ![dense](./img/dense.png)
