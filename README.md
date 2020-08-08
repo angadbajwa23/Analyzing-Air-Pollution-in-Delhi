@@ -18,10 +18,6 @@ c) Data Visualization</br>
 </br>
 For data visualization I use-</br>
 
-
-c) kde plot</br>
-d) joint plot</br>
-
 a) scatter plot</br>              |  b) dist plot</br>
 :-------------------------:|:-------------------------:
 ![scatter](./img/scatter.png)  |  ![dist](./img/dist.png)
