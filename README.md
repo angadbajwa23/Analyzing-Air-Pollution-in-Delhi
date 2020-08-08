@@ -1,5 +1,5 @@
 # Analyzing Air Pollution in Delhi
-Air Pollution in Delhi over the past 25 years using python, pandas, numpy and matplotlib.
+Air Pollution in Delhi over the past 25 years using python, pandas, numpy,matplotlib and seaborn libraries.
 </br>
 
 Involving data cleaning and data exploration.
@@ -26,3 +26,4 @@ a) scatter plot</br>              |  b) dist plot</br>
 c) kde plot</br>              |  d) dense plot</br>
 :-------------------------:|:-------------------------:
 ![kde](./img/kde.png)  |  ![dense](./img/dense.png)
+ libra
